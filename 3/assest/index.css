@@ -1,0 +1,17 @@
+.progress-bar ,.progress {
+    border-radius: 10px;
+    height: 25px;
+}
+.progress-bar , footer {
+    background-color:rgb(6, 147, 149) ;
+}
+.icon-icons8-home , .icon-earth {
+    color:rgb(6, 147, 149);
+}
+h3 {
+    color: rgb(77, 74, 74);
+    padding: 20px 0px;
+}
+h2 {
+    padding: 30px 0px;
+}
